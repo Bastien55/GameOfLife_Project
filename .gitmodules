@@ -1,0 +1,15 @@
+[submodule "GameOfLife"]
+	path = GameOfLife
+	url = https://github.com/Bastien55/GameOfLife.git
+[submodule "SocketBackend"]
+	path = SocketBackend
+	url = https://github.com/Bastien55/SocketBackend.git
+[submodule "ServerGameOfLife"]
+	path = ServerGameOfLife
+	url = https://github.com/Bastien55/ServerGameOfLife.git
+[submodule "GameOfLifeTest"]
+	path = GameOfLifeTest
+	url = https://github.com/Bastien55/GameOfLifeTest.git
+[submodule "GameOfLifeTests"]
+	path = GameOfLifeTests
+	url = https://github.com/Bastien55/GameOfLifeTest.git
